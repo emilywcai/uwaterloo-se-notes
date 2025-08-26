@@ -7,3 +7,5 @@
 **ECE358**: [Course Notes](https://shell-soldier-30f.notion.site/ECE358-Course-Notes-059d3e8118bc455baf11f9c9f2b37bab?pvs=4)
 
 **SE380**: Handwritten notes are available as a PDF
+
+**CS370**: Handwritten notes are available as a PDF
